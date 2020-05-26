@@ -11,3 +11,47 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.joke-box{
+  width: 300px;
+  border: 10px solid grey;
+  padding: 20px;
+  margin: 20px;
+}
+
+.todo-box{
+  width: 300px;
+  /* border: 10px solid grey; */
+  padding: 0;
+  margin: 20px;
+}
+
+.todo-outer-box{
+  width: 350px;
+  border: 2px solid grey;
+  padding: 20px;
+  margin: 20px;
+}
+
+.form-outer-box{
+  width: 350px;
+  border: 2px solid grey;
+  padding: 20px;
+  margin: 20px;
+}
+
+.form-background{
+  width: auto;
+  margin: auto;
+  padding: 20px;
+  height: 750px;
+  background-image: linear-gradient(#b8d9d9, #edf0f0, #b8d9d9);
+}
+
+.form-outer-console-box{
+  width: 350px;
+  border: 2px ;
+  padding: 20px;
+  margin: 20px;
+  background-color: #b8d9d9;
+}
